@@ -6,7 +6,7 @@ var topScores =
 {
 
 userName: 'Nitin',
-score: 3,
+score: 5,
 
 },
 
@@ -26,7 +26,7 @@ var questions =
 [
 {
 
-question: "Whos's the king khan of bolyywood?(Hint: 3 word answer) ",
+question: "Whos's the king khan of bolyywood?(Hint: 3 letter answer) ",
 answer: "SRK"
 
 },
@@ -41,8 +41,20 @@ answer: "Noida"
 
 {
 
-question: "The film to be shown in theatre for the longest time? (Hint: 4 word answer) ",
+question: "The film to be shown in theatre for the longest time? (Hint: 4 letter answer) ",
 answer: "DDLJ"
+
+},
+{
+
+question: "Top Paid actor in 2021? (First name only)",
+answer: "Aamir"
+
+},
+{
+
+question: "All time highest collection movie? ",
+answer: "Dangal"
 
 },
 ]
